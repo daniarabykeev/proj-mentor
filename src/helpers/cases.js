@@ -1,0 +1,1 @@
+export const CASE_GET_PRODUCTS = "GET_PRODUCTS";
